@@ -1,0 +1,7 @@
+{
+  "name": "Kids Reading App",
+  "description": "Fun kids reading app for Marlee, Kaylee, and Ellee with age-tailored phonics, interactive stories, and premium AI voices.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
